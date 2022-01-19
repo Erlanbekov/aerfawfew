@@ -5,7 +5,7 @@ void main() {
   forNull1(null, null);
  
 }
- 
+        
 void forNull(String? name) {
   print(name ?? 'Ошибка');
 }
